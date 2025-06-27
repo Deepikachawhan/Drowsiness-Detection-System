@@ -39,9 +39,6 @@ A real-time drowsiness and blink detection system using computer vision and faci
 - `blinkDetect.py` - Main script for detection
 - `alarm.wav` - Alarm sound played on drowsiness
 
-## Notes
-- For best results, use in well-lit environments. The script applies histogram equalization to improve detection in low light.
-- You can adjust detection thresholds in the script for sensitivity.
 
 ## Credits
 - Uses dlib's facial landmark detection
